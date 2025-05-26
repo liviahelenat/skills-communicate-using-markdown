@@ -6,3 +6,10 @@ just got how to edit files and add headers to my project!
 
 adding a image of my favourite lego
 ![Image of LEGO batman]([https://octodex.github.com/images/yaktocat.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLyfCpCCdje7yD-lNZdUl39QqtguDGbE4Lfw&s))
+
+
+
+```
+clone my Git repository by using
+$ git clone https://github.com/liviahelenat/skills-communicate-using-markdown
+```
